@@ -131,7 +131,6 @@
 			isa = PBXGroup;
 			children = (
 				4182AA952548176500C091DB /* Supporting Files */,
-				4182AA942548175500C091DB /* Preview Content */,
 				4182AA932548174A00C091DB /* Module */,
 				4182AA922548173E00C091DB /* Core */,
 				4182AA912548173800C091DB /* App */,
@@ -173,13 +172,6 @@
 				4182AA9A254817DB00C091DB /* Home */,
 			);
 			path = Module;
-			sourceTree = "<group>";
-		};
-		4182AA942548175500C091DB /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 		4182AA952548176500C091DB /* Supporting Files */ = {
